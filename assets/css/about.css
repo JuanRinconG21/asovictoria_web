@@ -1,0 +1,36 @@
+
+/* Legal info box */
+.legal-box {
+  background: linear-gradient(135deg, #06424c 0%, #0a6370 100%);
+  padding: 40px;
+  border-radius: 20px;
+  color: #fff;
+  margin-top: 60px;
+}
+
+.legal-box h3 {
+  color: #fff;
+  margin-bottom: 25px;
+  font-weight: 700;
+}
+
+.legal-info-item {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 15px 20px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  border-left: 4px solid #fff;
+}
+
+.legal-info-item strong {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+.legal-info-item span {
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+}
